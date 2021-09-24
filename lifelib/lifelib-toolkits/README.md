@@ -7,5 +7,3 @@
   * [沙发客规则和申请表](external-policy/couchsurfer-policy-and-application.md)
   * [公共空间使用权申请表](external-policy/right-to-use-public-space-application.md)
 
-
-

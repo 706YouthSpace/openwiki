@@ -27,7 +27,7 @@
 
 沙发客申请表：
 
-{% embed url="https://shimo.im/forms/vHpWPKQggCdpWvpc/fill" %}
+{% embed url="https://shimo.im/forms/vHpWPKQggCdpWvpc/fill" caption="" %}
 
 ![&#x7533;&#x8BF7;&#x8868;&#x4E8C;&#x7EF4;&#x7801;](../../../.gitbook/assets/couchsurfer-application.png)
 
