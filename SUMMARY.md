@@ -1,6 +1,7 @@
 # Table of contents
 
 * [关于 706 Openwiki](README.md)
+* [706 青年空间](https://706er.com/home)
 
 ## 生活实验室 <a id="lifelib"></a>
 
